@@ -1,0 +1,13 @@
+{
+  "bindings": [
+    {
+      "name": "input",
+      "type": "serviceBusTrigger",
+      "direction": "in",
+      "connection": "my-queue-connection-str",
+      "accessRights": "Manage",
+      "queueName": "myqueue"
+    }
+  ],
+  "disabled": false
+}
