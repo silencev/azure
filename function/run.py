@@ -4,7 +4,7 @@ import json
 import time
 import logging
 
-ADD_LIBRARY_PATH = '.\\site-packages'
+ADD_LIBRARY_PATH = ".\\site-packages"
 sys.path.append(ADD_LIBRARY_PATH)
 
 logger = logging.getLogger(__name__)
