@@ -23,6 +23,8 @@ logger.debug('function started name:{0} id:{1} time:{2}'.format(__file__, os.env
 # read the queue message and write to stdout
 input = open(os.environ['input']).read()
 
+logger.debug('read file %s' % (os.environ['input']))
+
 try:
     provision_json = json.loads(input)
     logger.debug('before sleep {0} seconds'.format(provision_json['sleep']))
