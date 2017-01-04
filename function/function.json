@@ -9,5 +9,5 @@
       "queueName": "myqueue"
     }
   ],
-  "disabled": false
+  "disabled": true
 }
