@@ -1,5 +1,5 @@
 {
-      "functionTimeout": "00:50:00",
+      "functionTimeout": "01:50:00",
   
       "serviceBus": {
             "maxConcurrentCalls": 16,
