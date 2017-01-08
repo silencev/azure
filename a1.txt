@@ -3,4 +3,5 @@ add featureA
 fix branch issue
 add featureA -> feature A2
 add featureA2-> featureB
-add featureB
+add featureB -> commandA
+add commandA
