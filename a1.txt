@@ -1,3 +1,5 @@
-fix issue of master & branch
+fix issue of master & branch & featureA feature A2
+add featureA
 fix branch issue
-
+add featureA -> feature A2
+add featureA2
