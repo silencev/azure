@@ -2,4 +2,5 @@ fix issue of master & branch & featureA feature A2
 add featureA
 fix branch issue
 add featureA -> feature A2
-add featureA2
+add featureA2-> featureB
+add featureB
